@@ -8,3 +8,4 @@ pyyaml>=5.1.2
 sphinx>=2.2.0
 unify>=0.5
 yapf>=0.28.0
+sphinx-rtd-theme>=0.4.3
